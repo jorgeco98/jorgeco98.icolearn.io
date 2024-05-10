@@ -1318,8 +1318,7 @@ section {
   color: #444444;
   font-size: 14px;
   height: 100px !important;
-  background: #F7F7F7;
-  
+  background: #F7F7F7;  
 }
 
 #footer .footer-top {
@@ -1501,4 +1500,8 @@ section {
   .testimonials .testimonial-item p {
     width: 80%;
   }
+}
+
+.col-lg-3 col-md-6 mb-4 {
+  margin-right: 500px;
 }
